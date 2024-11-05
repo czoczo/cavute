@@ -5,3 +5,6 @@ customization:
     items:
       saturation: 8
       lightness: 98
+
+logging:
+  level: "info"
