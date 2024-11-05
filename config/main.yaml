@@ -1,0 +1,7 @@
+customization:
+  name: Awesome Selfhosted Demos
+  colors:
+    theme: "#e6e6e6"
+    items:
+      saturation: 8
+      lightness: 98
