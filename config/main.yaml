@@ -6,5 +6,15 @@ customization:
       saturation: 8
       lightness: 98
 
+content_filters:
+  namespace:
+    mode: "include"
+    pattern: "^.*$"
+
+  item:
+    mode: "include"
+    pattern: "^.*$"
+allow_skip_tls_verify: true
+
 logging:
   level: "info"
