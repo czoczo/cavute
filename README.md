@@ -11,7 +11,7 @@ This repo is a simple example of how [CasaVue](https://casavue.app) can be used 
 │       └── build-demo-page.yaml    # Web page build and publish script
 ├── config                          # CasaVue config files
 │   └── main.yaml
-├── items_config_generator.py       # Python script for scraping data from GitHub Selfhosted repo
+├── items_config_generator.py       # Script for scraping data from GitHub Selfhosted repo
 ├── README.md
 └── requirements.txt                # Set of dependencies for python script
 ```
