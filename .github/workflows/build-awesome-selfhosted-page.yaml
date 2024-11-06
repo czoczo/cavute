@@ -1,4 +1,4 @@
-name: Deploy CasaVue Test
+name: Deploy CasaVue Awesome Selfhosted
 
 on:
   push:
